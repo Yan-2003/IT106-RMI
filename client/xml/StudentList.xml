@@ -1,0 +1,33 @@
+<StudentList>
+    <Student id = "1">
+        <name>Julliane J. Tampus</name>
+        <age>19</age>
+        <address>P2-B Bading Butuan City</address>
+        <contact>09632813030</contact>
+    </Student>
+    <Student id = "2">
+        <name>Mike M. Mikmok</name>
+        <age>18</age>
+        <address>P8 Obrero Butuan City</address>
+        <contact>09234871103</contact>
+    </Student>
+    <Student id = "3">
+        <name>ELkapitan Romageura</name>
+        <age>20</age>
+        <address>P2-B Ampayon Butuan City</address>
+        <contact>970970</contact>
+    </Student>
+    <Student id = "4">
+        <name>Lanbert Ry Tecson</name>
+        <age>21</age>
+        <address>P2-B Bading Butuan City</address>
+        <contact>09632813030</contact>
+    </Student>
+    <Student id = "5">
+        <name>Julliane J. Tampus</name>
+        <age>19</age>
+        <address>P2-B Bading Butuan City</address>
+        <contact>09632813030</contact>
+    </Student>
+
+</StudentList>
